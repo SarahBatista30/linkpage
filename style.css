@@ -104,6 +104,9 @@ img{
     }
     body{
         color: rgb(232, 240, 216);
-    background-color:   rgb(187, 188, 253)
+        background-color:   rgb(187, 188, 253)
+}
+ ul a hover{ 
+    background-color:#143, 144, 201;
 }
 }
